@@ -20,12 +20,19 @@ Open Rstudio
 go to Tools -> options -> Git/SVN -> 
 
 1. Enable version control
-2. setup directory for Git executable like "C:/Program Files/Git/cmd/git.exe"
+2. Setup directory for Git executable like "C:/Program Files/Git/cmd/git.exe"
 3. Click to "apply"
 
 Step 4 : Let try to start connecting Rstudio & Github repositories for version control
 
+On RStudio:
 1. Start new project on RStudio
-2. 
+2. Create a New Project in RStudio (Not new script)
+3. Use Git/SVN to save versions on Github and put the "URL" from Github, which are creating below
+
+On Github:
+4. Create a new repository and setup a 'NAME' of repository
+5. click on newly created repository and follow
+6. 
 
 

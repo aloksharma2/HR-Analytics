@@ -7,12 +7,12 @@ Difference btw Git & Github?
 2. Github - it provide repository storage just link Google drive, Dropbox etc. but on next level
 
 Step 1 : Download and Install Git from below link
-Link - https://git-scm.com/
-For setup use Youtube Link - https://www.youtube.com/watch?v=J_Clau1bYco
+1. Link - https://git-scm.com/
+2. For setup use Youtube Link - https://www.youtube.com/watch?v=J_Clau1bYco
 
 Step 2 : Create Github profile - https://github.com/
-Also, You can download Github-Desktop app to work directly from your system but it will take some time to get used to it.
 
+Also, You can download Github-Desktop app to work directly from your system but it will take some time to get used to it.
 
 Step 3 : Now, We will move towards Git setup for the RStudio
 

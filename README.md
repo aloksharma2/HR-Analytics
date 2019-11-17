@@ -26,13 +26,23 @@ go to Tools -> options -> Git/SVN ->
 Step 4 : Let try to start connecting Rstudio & Github repositories for version control
 
 On RStudio:
+
 1. Start new project on RStudio
 2. Create a New Project in RStudio (Not new script)
 3. Use Git/SVN to save versions on Github and put the "URL" from Github, which are creating below
 
 On Github:
+
 4. Create a new repository and setup a 'NAME' of repository
-5. click on newly created repository and follow
-6. 
+5. click on newly created repository
+6. Go to Clone or Download -> Clone with HTTPS -> copy the URL
+
+7. Paste the copied URL 3rd point
+
+You are ready to go and for more follow the youtube link given above.
+
+***ALOK Sharma***
+
+
 
 

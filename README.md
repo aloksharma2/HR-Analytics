@@ -1,9 +1,10 @@
 # HR-Analytics
+
 Alok, Alekh and Shubham
 
 Difference btw Git & Github?
-Git - it is the version control software
-Github - it provide repository storage just link Google drive, Dropbox etc. but on next level
+1. Git - it is the version control software
+2. Github - it provide repository storage just link Google drive, Dropbox etc. but on next level
 
 Step 1 : Download and Install Git from below link
 Link - https://git-scm.com/
@@ -25,6 +26,6 @@ go to Tools -> options -> Git/SVN ->
 Step 4 : Let try to start connecting Rstudio & Github repositories for version control
 
 1. Start new project on RStudio
-2. Refer
+2. 
 
 

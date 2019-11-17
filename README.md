@@ -41,7 +41,7 @@ On Github:
 
 You are ready to go and for more follow the youtube link given above.
 
-***ALOK Sharma***
+***ALOK SHARMA***
 
 
 
